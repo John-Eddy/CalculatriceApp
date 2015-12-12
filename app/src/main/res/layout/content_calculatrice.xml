@@ -31,8 +31,7 @@
             android:background="#c9eaef"
             android:backgroundTintMode="screen"
             android:maxLength="8"
-            android:lines="1"
-            android:text="reda" />
+            android:lines="1" />
 
         <LinearLayout
             android:orientation="horizontal"
